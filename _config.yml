@@ -11,4 +11,4 @@ github_username:  lhdv
 # Build settings
 markdown: kramdown
 
-timezone: America/Sao_Paulo
+# timezone: America/Sao_Paulo
