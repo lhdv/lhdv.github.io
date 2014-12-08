@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, I'm [LH](mailto:lh@lhdv.net), I'm from [São Paulo][1]{:target="_blank"}, [Brazil][2]{:target="_blank"} and here I'll write about my personal thoughts on technologies, human behavior and software development. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Sometimes I'll probably use this blog as my *"everywhere notebook"* to take a note of some tip or something else important.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I make a living as a consultant of [Oracle][3]{:target="_blank"} Technologies. And also I am very courious about new programming languages and some server stuff.
+
+I **do** like mountain bike downhill/freeride, many years ago I used to compete in some local races but nothing very serious it was just to put more adrenaline on the ride.
+
+[1]: http://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+[2]: http://en.wikipedia.org/wiki/Brazil 
+[3]: http://www.oracle.com "Oracle.com"
