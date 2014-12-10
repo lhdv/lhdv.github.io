@@ -3,7 +3,6 @@ layout: post
 title:  "A restart of the start"
 date:   2014-12-10 07:53:00
 tags:   development ruby rails 
-published: false
 ---
 In this year I've been developing my skills in Ruby and Rails and the best thing that helps you to get close to the new programming languages that you're learning is solve a problema that you have.
 
