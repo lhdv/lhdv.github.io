@@ -12,3 +12,6 @@ github_username:  lhdv
 markdown: kramdown
 
 # timezone: America/Sao_Paulo
+
+gems:
+- jekyll-sitemap
