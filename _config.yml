@@ -13,5 +13,6 @@ markdown: kramdown
 
 # timezone: America/Sao_Paulo
 
+production_url : http://lhdv.net
 gems:
 - jekyll-sitemap
